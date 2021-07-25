@@ -53,7 +53,7 @@ p{
     box-sizing: border-box;
     border: 1px;
 	background-color:red;
-	margin-right:1.4px;
+	margin-right:1.3px;
 }
 .button2{
     width: 40px;
@@ -64,7 +64,7 @@ p{
     top: 227.5px;
 	background-color:#ff7300;
 	border: none;
-	margin-right:1.4px;
+	margin-right:1.3px;
 }
 .button21{
     width: 40px;
@@ -75,7 +75,7 @@ p{
     top: 227.5px;
 	background-color:#ff7300;
 	border: none;
-	margin-right:1.4px;
+	margin-right:1.3px;
 }
 
 
@@ -120,8 +120,8 @@ p{
     height: 40px;
 	border-radius: 50%;
 	position: relative;
-    left:-385px;
-    top: 321px;
+    left:-384px;
+    top: 320px;
 	background-color:#426fcf;
 	border: none;
 	margin-right:1.3px;
@@ -146,7 +146,7 @@ p{
     height: 40px;
 	border-radius: 50%;
 	position: relative;
-    left:-475px;
+    left:-475.5px;
     top: 366px;
 	background-color:#be30e6;
 	border: none;
