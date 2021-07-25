@@ -11,147 +11,149 @@ body{
 
 h1{
 	font-family: 'Yomogi', cursive;
-	font-size: 96px;
-	margin-top:70px;
+	font-size: 90px;
+	margin-top:7px;
 	position: fixed;
-	left: 480px;
+	left: 20px;
 	
 	
 }
+.popit{
+	    position: fixed;
+	width: 300px;
+	height: 300px;
+	left: 4px;
+	top: 200px;
+	
+}
 p{
-	width: 600px;
-	height:400px;
+	width: 310px;
+	height:200px;
 	position: fixed;
-	left: 350px;
-	top: 1000px;
+	left: 20px;
+	top: 500px;
 	font-family: 'Open Sans Condensed', sans-serif;
-	font-size: 40px;
+	font-size: 30px;
 	
 }
 .source{
 	position: fixed;
-	left: 350px;
-	top: 1600px;
+	left:20px;
+	top: 1150px;
 	
 }
 .button1{
 	position: relative;
-    width: 80px;
-    height: 80px;
+    width: 40px;
+    height: 40px;
 
 	border-radius: 50%;
-    left: 38.5px;
-    top: 38.5px;
+    left:-21.5px;
+    top: 182px;
     box-sizing: border-box;
     border: 1px;
 	background-color:red;
-	margin-right:10.2px;
+	margin-right:1.4px;
 }
 .button2{
-	width:80px;
-	height:80px;
+    width: 40px;
+    height: 40px;
 	border-radius: 50%;
 	position: relative;
-    left: 38.5px;
-    top: 50px;
+    left:-385px;
+    top: 227.5px;
 	background-color:#ff7300;
 	border: none;
-	margin-right:10.2px;
+	margin-right:1.4px;
 }
 .button21{
-	width:80px;
-	height:80px;
+    width: 40px;
+    height: 40px;
 	border-radius: 50%;
 	position: relative;
-    right:150px;
-    top: 133px;
+    left:-113px;
+    top: 227.5px;
 	background-color:#ff7300;
 	border: none;
-	margin-right:10.2px;
+	margin-right:1.4px;
 }
 
 
 .button3{
-	width:80px;
-	height:80px;
+    width: 40px;
+    height: 40px;
 	border-radius: 50%;
 	position: relative;
-    left: 38.5px;
-    top: 62px;
+    left:-21px;
+    top: 230px;
 	background-color:#f2d12c;
 	border: none;
-	margin-right: 10.2px;
+	margin-right:1.4px;
 }
 
 .button31{
-	width:80px;
-	height:80px;
+    width: 40px;
+    height: 40px;
 	border-radius: 50%;
 	position: relative;
-    right:150px;
-    top: 144px;
+    left:-478px;
+    top: 272px;
 	background-color:#f2d12c;
 	border: none;
-	margin-right: 10.2px;
+	margin-right:1.4px;
 }
 
 .button4{
-	width:80px;
-	height:80px;
+    width: 40px;
+    height: 40px;
 	border-radius: 50%;
 	position: relative;
-    right:150px;
-    top: 156px;
+    right:112px;
+    top: 275px;
 	background-color:#4bde81;
 	border: none;
-	margin-right: 10.2px;
+	margin-right:1.3px;
 }
 
 .button5{
-	width:80px;
-	height:80px;
+    width: 40px;
+    height: 40px;
 	border-radius: 50%;
 	position: relative;
-    left: 38.5px;
-    top: 168px;
+    left:-384px;
+    top: 321px;
 	background-color:#426fcf;
 	border: none;
-	margin-right: 10.2px;
+	margin-right:1.3px;
 }
 
 
 
 .button6{
-	width:80px;
-	height:80px;
+    width: 40px;
+    height: 40px;
 	border-radius: 50%;
 	position: relative;
-    left: 38.5px;
-    top: 182px;
+    left:-22px;
+    top: 323px;
 	background-color:#be30e6;
 	border: none;
-	margin-right: 10.2px;
+	margin-right:1.3px;
 }
 
 .button61{
-	width:80px;
-	height:80px;
+    width: 40px;
+    height: 40px;
 	border-radius: 50%;
 	position: relative;
-    right:150px;
-    top: 266px;
+    left:-475px;
+    top: 366px;
 	background-color:#be30e6;
 	border: none;
-	margin-right: 10.2px;
+	margin-right:1.3px;
 }
 
-.toy{
-    position: relative;
-	width: 760px;
-	height: 774px;
-	left: 300px;
-	top: 270px;
-}
+
 
 
 .active {
